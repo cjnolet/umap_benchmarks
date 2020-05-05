@@ -1,0 +1,9 @@
+[submodule "datasets"]
+	path = datasets
+	url = https://github.com/overshiki/datasets.git
+[submodule "inspect_word2vec"]
+	path = inspect_word2vec
+	url = https://github.com/chrisjmccormick/inspect_word2vec.git
+[submodule "word2vec"]
+	path = word2vec
+	url = https://github.com/tmikolov/word2vec.git
