@@ -10,7 +10,7 @@ This repository uses git submodules. Initialize them with `git submodule update 
 - CIFAR-100 - Downloaded from https://www.cs.toronto.edu/~kriz/cifar.html
 - Shuttle - Downloaded from https://archive.ics.uci.edu/ml/datasets/Statlog+(Shuttle)
 - MNIST - Uses datasets submodule to download and load
-- TASIC2018 - <Victor needs to update>
+- TASIC2018 - Data from : https://portal.brain-map.org/atlases-and-data/rnaseq (see dedicated notebook)
 - scRNA - Dataset downloaded from https://cells.ucsc.edu/
 - COIL-20 - Uses datasets submodule to download and load
 
